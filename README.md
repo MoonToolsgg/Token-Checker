@@ -1,7 +1,7 @@
 # Token-Checker
 a basic discord token checker that checks if tokens are valid or invalid and saves some information about the tokens
 # preview
-![picture](https://imgur.com/a/NpBW4BH)
+![picture](https://i.imgur.com/jMT0aHJ.png)
 
 # information
 * made in python
